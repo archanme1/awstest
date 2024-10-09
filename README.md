@@ -14,3 +14,5 @@
 - **AWS API Gateway**
 - **AWS Amplify**
 - **AWS S3**
+
+- **!designedBy==="archanme1", using this monorepo for aws testing and learning purpose**
